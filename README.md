@@ -31,4 +31,4 @@
 
 
 @참고자료
-* https://youtu.be/y7ZATDU1RMI?si=bXb56PEYRtQ0VGti
+* https://youtu.be/y7ZATDU1RMI?si=bXb56PEYRtQ0VGti 
