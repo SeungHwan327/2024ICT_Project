@@ -1,4 +1,4 @@
-# 🔫 ArtillerySimulator & Game
+   # 🔫 ArtillerySimulator & Game
 아두이노를 이용해서 상대의 좌표를 계산하여 프로그램을 이용한 시뮬레이터 & 게임
 # ⏰개발 기간
 2024.02.24 ~ 2024.03.31
