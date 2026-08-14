@@ -8,7 +8,7 @@
   * 3월 26일 2차 회의 
 
 # 👥멤버구성
-* 이승환: Godot을 이용한 Artillery Game 개발
+* 이승환: Godot을 이용한 Artillery Game 개발 
 * 송재곤: Android Studio를 이용한 Artillery Simulator 개발
 * 이범준: 아두이노를 이용한 좌표계산기 제작
 # ⚙️개발환경 
