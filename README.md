@@ -29,7 +29,7 @@
   8. 타이머 구현 
 
  휴먼 폴 플랫 느낌의 그래픽 구현
-
+ 
 
 @참고자료
 * https://youtu.be/y7ZATDU1RMI?si=bXb56PEYRtQ0VGti 
